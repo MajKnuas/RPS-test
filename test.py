@@ -1,3 +1,4 @@
 print("Maj Knaus je KING")
 print("Maj Knaus je tolk DOBR v vsem")
 print("To je blo v GitHubu narejeno od PRO Maj Knausa")
+print("We Love Maj Knaus")
