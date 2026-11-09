@@ -1,0 +1,1 @@
+print("Maj Knaus je KING")
